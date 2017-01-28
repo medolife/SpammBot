@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="PirateSpammBot"> 
+        <version>1.0.0.2</version> 
+        <url>https://raw.githubusercontent.com/medolife/SpammBot/master/PirateSpammBot.exe</url> 
+        <fileName>PirateSpammBot.exe</fileName> 
+        <md5>D4146AFFA2833654587AD205E1B9D42A</md5>
+        <description>Update: 28/1/2016:
+        1. Add Teleports
+
+		</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
