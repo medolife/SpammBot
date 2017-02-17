@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="PirateSpammBot"> 
+        <version>1.0.0.3</version> 
+        <url>https://raw.githubusercontent.com/medolife/SpammBot/master/PirateSpammBot.exe</url> 
+        <fileName>PirateSpammBot.exe</fileName> 
+        <md5>C76B6B5BFB2E8446FE24A62670CB27D4</md5>
+        <description>Update: 17/2/2017:
+        1. Add Spamm MSGS, Add New Random Teleports Method
+
+		</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
